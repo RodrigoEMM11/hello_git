@@ -1,1 +1,2 @@
-ECHO est  activado.
+print("Hello Git!")
+print("Â¿Que tal el curso?")
